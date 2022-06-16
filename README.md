@@ -1,9 +1,10 @@
 # Welcome to the CRUD of PROJECTS!
 #### Description:
 ```diff
-In this project I build a functional web aplication that gives you the posibility to show information about you and your
-projects...some kind of portfolio. 
-This is a CRUD of projects with a system authentication in order to provide the ability to create your own portfolio!
+In this project I build a functional web aplication that gives you the posibility to show
+information about you and your projects...some kind of portfolio. 
+This is a CRUD of projects with a system authentication in order to provide the ability
+to create your own portfolio!
 ```
 
 #### Instructions:
